@@ -1,11 +1,16 @@
-bootstrap-viewer-template
+Map viewer template
 =========================
+This repository is forked from a Jackie Ng template:
+[bootstrap-viewer-template](https://github.com/jumpinjackie/bootstrap-viewer-template.git)
 
-Some seed bootstrap templates for interactive map viewers. I was sick of basically re-creating these layouts from scratch every time I needed such a layout, so this should hopfefully serve as a nice starting point for anyone building a bootstrap-based map viewer.
+I have added in the collapsable panels some view and code from my another projects:
+* [MetPetools](https://github.com/gianfrancodp/metpetools.git)
 
- * [2-column layout](//jumpinjackie.github.io/bootstrap-viewer-template/2-column/index.html)
- * [3-column layout](//jumpinjackie.github.io/bootstrap-viewer-template/3-column/index.html)
+The scope of this project is test User Experience for a main project called MetPET
+More info in the repository page: [https://github.com/gianfrancodp/metpet.git](https://github.com/gianfrancodp/metpet.git)
 
+Credits:
+[https://github.com/jumpinjackie](https://github.com/jumpinjackie)
 
 License
 =======
