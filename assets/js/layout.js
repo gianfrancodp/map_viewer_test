@@ -74,6 +74,8 @@ function applyMargins() {
 
     $(window).on("resize", applyMargins);
 
+// OpenLayers map
+
     var map = new ol.Map({
       target: "map",
       layers: [
@@ -86,6 +88,7 @@ function applyMargins() {
         zoom: 2
       })
     });
+    
     applyInitialUIState();
     applyMargins();
   });
